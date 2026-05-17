@@ -1,4 +1,5 @@
-Het! 👋
+Hey! 👋  
+  
 __I'm Shrihan Agarwal__. An astrophysicist at the University of Chicago.  
 Welcome to my world of coding projects: some research, others learning, and a few for fun!  
 
