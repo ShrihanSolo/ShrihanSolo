@@ -7,10 +7,11 @@ Since you're here, you might as well check out a few of them :)
 
 #### Research/Hackathons:  
 [DomainAdaptiveMVEforLensModeling](https://github.com/deepskies/DomainAdaptiveMVEforLensModeling) - My paper combining neural net domain adaptation with uncertainty quantification (a first!).  
-[Graph Neural Networks](https://github.com/ShrihanSolo/ludwigteam) - Runners up in UChicago Hackathon using graph neural networks to predict atomic ionization energies.  
+[Graph Neural Networks](https://github.com/ShrihanSolo/ludwigteam) - Runners up in [UChicago DSI Hackathon](https://datascience.uchicago.edu/news/2025-aiscience-hackathon-challenges-students-to-take-on-cutting-edge-scientific-problems-with-ai/) using graph neural networks to predict atomic ionization energies.  
 [Cross-matching Billions of Stars](https://github.com/ShrihanSolo/gaia_psf_match) - Big data cross-matching project, part of cosmic shear systematics paper [Jefferson et al. 2025](https://arxiv.org/abs/2505.03964).  
+[arXaudio](https://github.com/ShrihanSolo/arxaudio) - a daily audio digest of latest arXiv papers, curated according to your preference with open-source LLMs, made at LSST-DSFP hackathon.
 
-#### My Book:  
+#### My Book w/ Prof. Safonova:  
 [Fun With Comets](https://github.com/Alik-123/Mathematical-Fun-With-Comets) - Want to study astro? Co-author of Book with real astronomical data (see repo) for highschoolers to try astro!  
 
 #### Courses/Learning:  
